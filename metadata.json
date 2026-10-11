@@ -1,0 +1,6 @@
+{
+  "name": "Sujon Contractor",
+  "description": "Electrical site accounting app for managing daily site income, expenses, worker salaries, and customizable site tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
